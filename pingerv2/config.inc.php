@@ -11,13 +11,13 @@ const DB_NAME = 'pinger';
 
 // Mails to be send emails
 
-const MAIL_1 = 'hamaadraza9@gmail.com';
+const MAIL_1 = '';
 
-const MAIL_2 = 'hamaad700@gmail.com';
+const MAIL_2 = '';
 
 // Mails to be emails recived from
 
-const MAIL_RECV = 'hamaad.raza@aol.com';
+const MAIL_RECV = '';
 
 }
 
